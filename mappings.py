@@ -281,7 +281,6 @@ airport_codes = {
 }
 
 origin_loc_mapping = {
-    "": None,
     "Abu Dhabi": "United Arab Emirates",
     "Acc": "Ghana",
     "Adampur": "India",
@@ -1016,7 +1015,6 @@ origin_loc_mapping = {
 
 
 dest_loc_mapping = {
-    "": None,
     "Abu Dhabi": "United Arab Emirates",
     "Abudhabi": "United Arab Emirates",
     "Abuja": "Nigeria",
